@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am **Natasquare**. I'm just a normal not-so-famous Javascript developer.
+I am **Natasquare**. I'm just a random developer.
 
 ### My projects
 
