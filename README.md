@@ -1,4 +1,4 @@
-### <img src = "logo.png" width="50" height="50"> A random developer, likes working on Discord bots/websites
+### <img src = "biglogo.png" width="50" height="50"> A random developer, likes working on Discord bots/websites
 
 <details>
   <summary>Github Stats</summary>
