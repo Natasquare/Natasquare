@@ -10,5 +10,5 @@
 <details>
   <summary>Discord</summary>
 
-  [![Discord Presence](https://lanyard.cnrad.dev/api/696698254770831421)](https://discord.com/users/696698254770831421)
+  [![Discord Presence](https://lanyard.cnrad.dev/api/696698254770831421?bg=00000000&idleMessage=Idling...)](https://discord.com/users/696698254770831421)
 </details>
