@@ -8,13 +8,14 @@
                     ><br />Natasquare<br /><sup>────</sup><img width="192px" />
                 </td>
                 <td>
-                    <a href="#" title="HideSeekSpin"
-                        ><img
+                    <a href="#" title="HideSeekSpin">
+                        <img
                             src="https://cdn.discordapp.com/emojis/962344334177480744.gif?size=128"
                             width="133px"
                             height="133px"
                             alt="HideSeekSpin"
-                    /></a>
+                        />
+                    </a>
                 </td>
             </tr>
         </table>
@@ -39,7 +40,9 @@
                     <a href="#" title="Github stats">
                         <picture>
                             <source
-                                scrset="https://github-readme-stats.vercel.app/api?username=natasquare&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&text_color=1b1f27&title_color=78aad8&icon_color=78aad8&bg_color=00000000&border_radius=8&disable_animations=true&hide_title=true&line_height=24px"
+                                srcset="
+                                    https://github-readme-stats.vercel.app/api?username=natasquare&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&text_color=1b1f27&title_color=78aad8&icon_color=78aad8&bg_color=00000000&border_radius=8&disable_animations=true&hide_title=true&line_height=24px
+                                "
                                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
                             />
                             <img
@@ -57,7 +60,9 @@
                     <a href="#" title="Github top languages">
                         <picture>
                             <source
-                                scrset="https://github-readme-stats.vercel.app/api/top-langs/?username=natasquare&hide_border=true&text_color=1b1f27&bg_color=00000000&border_radius=8&hide_title=true"
+                                srcset="
+                                    https://github-readme-stats.vercel.app/api/top-langs/?username=natasquare&hide_border=true&text_color=1b1f27&bg_color=00000000&border_radius=8&hide_title=true
+                                "
                                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
                             />
                             <img
@@ -80,7 +85,9 @@
                     <a href="https://wakatime.com/@ntsq">
                         <picture>
                             <source
-                                scrset="https://github-readme-stats.vercel.app/api/wakatime?username=ntsq&hide_border=true&text_color=1b1f27&bg_color=00000000&border_radius=8&hide_title=true&range=last_7_days&line_height=24px"
+                                srcset="
+                                    https://github-readme-stats.vercel.app/api/wakatime?username=ntsq&hide_border=true&text_color=1b1f27&bg_color=00000000&border_radius=8&hide_title=true&range=last_7_days&line_height=24px
+                                "
                                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
                             />
                             <img
@@ -102,7 +109,9 @@
                     <a href="https://discord.com/users/696698254770831421" title="Natasquare#2048">
                         <picture>
                             <source
-                                scrset="https://lanyard.cnrad.dev/api/696698254770831421?bg=00000000&borderRadius=8px&idleMessage=Procrastinating&theme=light"
+                                srcset="
+                                    https://lanyard.cnrad.dev/api/696698254770831421?bg=00000000&borderRadius=8px&idleMessage=Procrastinating&theme=light
+                                "
                                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
                             />
                             <img
@@ -125,7 +134,9 @@
                     <a href="https://www.last.fm/user/Natasquare" title="Natasquare">
                         <picture>
                             <source
-                                scrset="https://lastfm-profile-readme.vercel.app/api/natasquare?color=00000000&textColor=1b1f27&isRounded=true"
+                                srcset="
+                                    https://lastfm-profile-readme.vercel.app/api/natasquare?color=00000000&textColor=1b1f27&isRounded=true
+                                "
                                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
                             />
                             <img
